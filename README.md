@@ -1,8 +1,8 @@
-# Tactix-Fenix
+# Lorenzo
 
 ![cover image](docs/hero-03.png)
 
-Tactix and TactixFace inspired watch face for the Fenix 7. Element placement are calculated by pixels so it's only tested to work with 260x260 screens.
+Tactix-Fenix inspired watch face for the Fenix 7.
 
 - Use Complications API to retrieve data for efficiency
 - Tap and Hold to toggle Analog watch hands
